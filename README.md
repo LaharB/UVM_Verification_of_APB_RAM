@@ -4,6 +4,8 @@ This repository showcases the verification of APB based RAM using Universal Veri
 
 The APB RAM does not implement any wait state during write and read transaction and PROT or PSTRB signal.
 
+__________________________________________________________________
+
 <details><summary>AMBA APB Protocol: Technical Specification</summary>
 
 ## Introduction
