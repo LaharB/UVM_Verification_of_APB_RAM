@@ -2,7 +2,7 @@
 
 This repository showcases the verification of APB based RAM using Universal Verification Methodology(UVM).It is simulated using Vivado 2025.1 tool.
 
-The APB RAM does not implement any wait state during transaction and PROT or PSTRB signal.
+The APB RAM does not implement any wait state during write and read transaction and PROT or PSTRB signal.
 
 <details><summary>AMBA APB Protocol: Technical Specification</summary>
 
